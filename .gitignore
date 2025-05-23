@@ -1,0 +1,3 @@
+*.feather
+*.csv
+.ipynb_checkpoints/
